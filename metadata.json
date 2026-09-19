@@ -1,0 +1,6 @@
+{
+  "name": "AMLens — Follow the Money",
+  "description": "AI-Powered Anti-Money-Laundering Investigation System to detect layering, circular flows, and rapid movement with explainable intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
